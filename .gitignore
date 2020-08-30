@@ -1,0 +1,6 @@
+build
+vendor
+composer.lock
+html
+.phpunit.result.cache
+phpunit.xml.dist.bak
